@@ -84,9 +84,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/Ariful544/ariful544/refs/heads/main/DALL%C2%B7E%202025-01-08%2006.11.27%20-%20A%20sleek%20and%20modern%20GitHub%20profile%20banner%20for%20a%20full-stack%20MERN%20(MongoDB%2C%20Express.js%2C%20React%2C%20Node.js)%20web%20developer.%20The%20design%20includes%20vibrant%20colors.webp"  />
-</div>
-
-###
